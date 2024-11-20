@@ -77,29 +77,9 @@ function About() {
                 <h1>About•Me</h1>
 
                 
-                <div class="container">
-                    <div class="terminal_toolbar">
-                        <div class="butt">
-                            <button class="btn btn-color"></button>
-                            <button class="btn btn-color2"></button>
-                            <button class="btn btn-color3"></button>
-                        </div>
-                        <p class="user">YS26@admin: ~</p>
-                        <div class="add_tab">
-                            
-                        </div>
-                    </div>
-                    <div class="terminal_body">
-                        <div class="terminal_promt">
-                            
-                            <span class="terminal_bling">$</span>
                             <p><span className="highlight">🚀</span> Hello there! <span className="highlight">:&gt;</span> I&apos;m Yash, a <span className="highlight">frontend and ML developer</span> with an interest in everything and a life-long dedication to learning. I am a <span className="highlight">20</span> year old student based in <span className="highlight">India</span>. I started coding in <span className="highlight">2021</span> and now I am pursuing my degree in <span className="highlight">computer science</span>. I enjoy creating things that live on the internet. <span className="highlight">🌐</span></p>
 
-                            <span class="terminal_cursor"></span>
-
-                        </div>
-                    </div>
-                </div>
+                           
             </div>
         </section>
     )
